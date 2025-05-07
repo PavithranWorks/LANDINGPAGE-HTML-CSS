@@ -1,6 +1,3 @@
-Here's an updated and detailed version of your README file for GitHub that includes more comprehensive sections, such as setup instructions, contributing guidelines, and more.
-
----
 
 # Landing Page Project
 
@@ -12,7 +9,6 @@ This repository contains the code for a responsive landing page. The page is des
 * [Features](#features)
 * [Technologies Used](#technologies-used)
 * [Preview](#preview)
-* [Setup Instructions](#setup-instructions)
 * [File Structure](#file-structure)
 * [Contributing](#contributing)
 * [License](#license)
@@ -42,31 +38,7 @@ The layout is made to be flexible and responsive, adjusting itself to various sc
 * **CSS Grid**: For organizing and aligning elements in the feature section.
 * **CSS Variables**: For consistent theming across the page.
 
-## Preview
 
-![Landing Page Preview](./screenshot.png)
-
-## Setup Instructions
-
-To get started with this project locally:
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/your-username/landing-page.git
-   ```
-
-2. **Navigate to the project directory**:
-
-   ```bash
-   cd landing-page
-   ```
-
-3. **Open the `index.html` file** in your browser to view the landing page:
-
-   * Simply double-click on the `index.html` file or use a code editor like VS Code to open the project.
-
-4. **Optional**: You can also use a local development server, like Live Server in VS Code, to view the project in action.
 
 ## File Structure
 
@@ -101,12 +73,7 @@ Please ensure that your code adheres to the existing project structure and stand
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
 
-* **Inspiration**: Design inspiration taken from modern landing page designs found on websites like [Awwwards](https://www.awwwards.com/) and [Dribbble](https://dribbble.com/).
-* **Tools**: The project was built using a simple text editor (VS Code) and utilizes modern CSS techniques (Flexbox, Grid) to achieve a responsive and clean layout.
-
----
 
 Make sure to replace `your-username` with your actual GitHub username and update the repository URL as needed.
 
